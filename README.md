@@ -1,8 +1,7 @@
 <h1>Apartment Hunt </h1> <h5> -A full stack web app for house-rent provider.</h5>
    <ul> 
 	  <li> <a target="_blank" href="https://apartment-hunt-main.web.app/"> Live Website Link</a>
-	  <li> <a target="_blank" href="https://github.com/alamgirakash2000/apartment-hunt-client"> Client Side Code Link</a>
-	  <li> <a target="_blank" href="https://github.com/alamgirakash2000/aparment-hunt-server"> Server Side Code Link</a>
+	  <li> <a target="_blank" href="https://github.com/MH-PAVEL/aparment-hunt-server"> Server Side Code Link</a>
    </ul>
     
 <h2>Description </h2>
@@ -10,7 +9,7 @@
 
 <h2> Functionality </h2>
 <ul>
-   <li> <b> CURD operations by Mongoose</b>
+   <li> <b> CRUD operations by Mongoose</b>
   <li> <b>Render multiple pages through React Router</b>
   <li> <b> Store data globally by REDUX </b>
   <li> <b> Firebase Authentication </b>
